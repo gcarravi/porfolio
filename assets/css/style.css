@@ -19,8 +19,9 @@ h1, h2 {
     color: #184f63;                 /* dark-blue */
 }
 
-#hero {
-    background-image: ;
+.sharp-corners,
+.sharp-corners * {
+    border-radius: 0;
 }
 
 /* About section */
